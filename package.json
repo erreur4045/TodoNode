@@ -1,0 +1,19 @@
+{
+  "name": "todonodejs",
+  "version": "1.0.0",
+  "description": "First project NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erreur4045/TodoNode.git"
+  },
+  "author": "Maxime THIERRY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erreur4045/TodoNode/issues"
+  },
+  "homepage": "https://github.com/erreur4045/TodoNode#readme"
+}
