@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/erreur4045/TodoNode/issues"
   },
-  "homepage": "https://github.com/erreur4045/TodoNode#readme"
+  "homepage": "https://github.com/erreur4045/TodoNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
